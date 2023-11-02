@@ -5,6 +5,7 @@
 
 <details>
   <summary><b>Frontend 💻</b></summary>
+  <br />
   <img  alt="HTML" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img  alt="CSS" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img  alt="Sass" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -20,6 +21,7 @@
 
 <details>
   <summary><b>Backend 🛠️</b></summary>
+  <br />
   <img  alt="Java" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img  alt="NodeJS" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img  alt="GO" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
@@ -30,6 +32,7 @@
 
 <details>
   <summary><b>Database 📚</b></summary>
+  <br />
   <img  alt="MySQL" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img  alt="Firebase" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img  alt="Planetscale" width="40px" style="margin-right:10px;" src="https://theme.zdassets.com/theme_assets/11652238/9a8ba06a246aea20922ab7a36347ec0788f4b2f2.png" />
@@ -39,6 +42,7 @@
 
 <details>
   <summary><b>Middleware 📦</b></summary>
+  <br />
   <img  alt="Prisma" style="margin-right:10px;" src="https://prismalens.vercel.app/header/logo-white.svg" />
 </details>
 
@@ -46,6 +50,7 @@
 
 <details>
   <summary><b>Cloud 🌩️</b></summary>
+  <br />
   <img  alt="GCP" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img  alt="AWS" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img  alt="Vercel" width="40px" style="margin-right:10px;" src="https://assets.vercel.com/image/upload/front/favicon/vercel/60x60.png" />
@@ -55,6 +60,7 @@
 
 <details>
   <summary><b>CI/CD ⚙️</b></summary>
+  <br />
   <img  alt="CircleCI" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
 </details>
 
@@ -62,6 +68,7 @@
 
 <details>
   <summary><b>Version Control 🔍</b></summary>
+  <br />
   <img  alt="Git" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img  alt="GitHub" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img  alt="Gitlab" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
@@ -71,6 +78,7 @@
 
 <details>
   <summary><b>Test 🧪</b></summary>
+  <br />
   <img  alt="Jest" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img  alt="Cypress" width="40px" style="margin-right:10px; background-color:white;" src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" />
 </details>
@@ -79,6 +87,7 @@
 
 <details>
   <summary><b>Project/Task Management 📋</b></summary>
+  <br />
   <img  alt="Jira" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img  alt="Confluence" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
   <img  alt="Notion" width="40px" style="margin-right:10px;" src="https://www.notion.so/front-static/logo-ios.png" />
