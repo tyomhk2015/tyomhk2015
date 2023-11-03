@@ -1,4 +1,4 @@
-### TYO 👋
+### 👋 TYO
 
 <p>I'm a trilingual web developer residing in Tokyo, fluent in Korean <img alt="🇰🇷" draggable="false" width="16px" style="vertical-align:middle;" src="https://abs-0.twimg.com/emoji/v2/svg/1f1f0-1f1f7.svg">, English <img alt="🇺🇸" draggable="false" width="16px" style="vertical-align:middle;" src="https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg">, and Japanese <img alt="🇺🇸" draggable="false" width="16px" style="vertical-align:middle;" src="https://abs-0.twimg.com/emoji/v2/svg/1f1ef-1f1f5.svg">.</p>
 <p>You're more than welcome to converse with me in any of these languages.</p>
