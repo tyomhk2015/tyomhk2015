@@ -70,6 +70,14 @@
 </details>
 
 <details>
+  <summary><b>Monitoring 📈</b></summary>
+  <br />
+  <img alt="Datadog" width="40px" style="margin-right:10px;" src="https://imgix.datadoghq.com/img/dd_logo_n_70x75.png?ch=Width,DPR&fit=max&auto=format&w=70&h=75" />
+  <br />
+  <br />
+</details>
+
+<details>
   <summary><b>Version Control 🔍</b></summary>
   <br />
   <img  alt="Git" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
