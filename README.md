@@ -1,4 +1,4 @@
-### TYO 👋
+### 👋 TYO
 
 <p>I'm a trilingual web developer residing in Tokyo, fluent in Korean <img alt="🇰🇷" draggable="false" width="16px" style="vertical-align:middle;" src="https://abs-0.twimg.com/emoji/v2/svg/1f1f0-1f1f7.svg">, English <img alt="🇺🇸" draggable="false" width="16px" style="vertical-align:middle;" src="https://abs-0.twimg.com/emoji/v2/svg/1f1fa-1f1f8.svg">, and Japanese <img alt="🇺🇸" draggable="false" width="16px" style="vertical-align:middle;" src="https://abs-0.twimg.com/emoji/v2/svg/1f1ef-1f1f5.svg">.</p>
 <p>You're more than welcome to converse with me in any of these languages.</p>
@@ -65,6 +65,14 @@
   <summary><b>CI/CD ⚙️</b></summary>
   <br />
   <img  alt="CircleCI" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" />
+  <br />
+  <br />
+</details>
+
+<details>
+  <summary><b>Monitoring 📈</b></summary>
+  <br />
+  <img alt="Datadog" width="40px" style="margin-right:10px;" src="https://imgix.datadoghq.com/img/dd_logo_n_70x75.png?ch=Width,DPR&fit=max&auto=format&w=70&h=75" />
   <br />
   <br />
 </details>
