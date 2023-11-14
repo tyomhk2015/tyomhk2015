@@ -4,7 +4,7 @@
 <p>You're more than welcome to converse with me in any of these languages.</p>
 <p>Currently, I'm exploring Flutter and embarking on a path toward a career in DevOps.</p>
 
-### 🧰 Tech Stacks
+### 🧰 Experience with
 
 <details>
   <summary><b>Frontend 💻</b></summary>
@@ -107,6 +107,91 @@
   <br />
 </details>
 
+<br />
+
+### 📂 Work Experience
+
+<details>
+  <summary><b>S.H (Current)</b></summary>
+  <br />
+  <pre>
+  Domain: 
+  ・International communication between Japan and abroad.
+  ・Foreign talent recruitment.
+  My Role: Fullstack
+  Main accomplishments:
+  ・Enhanced UI/UX, reducing registration abandonment by 5%, effectively increasing the conversion rate (CVR) by the same margin.
+  ・Implemented an automated account deletion feature, streamlining the process and reducing manual effort for the customer service team.
+  </pre>
+</details>
+
+<details>
+  <summary><b>NTT DOCOMO</b></summary>
+  <br />
+  <pre>
+  Company:NTT DOCOMO
+  Domain: Telecommunication.
+  My Role: Backend, Cloud, and APM
+  Main accomplishments:
+  ・Solved more than 10 security issues, CVE, with Trivy.
+  ・Reduced Google Cloud Store authentication costs by eliminating 50,000 unused access tokens, maintaining only 1,000 active tokens.
+  ・Enhanced token deletion time-efficiency by 1,870% using a batch-like API from Cloud Firestore.
+  </pre>
+</details>
+
+<details>
+  <summary><b>LINE App for retail stores</b></summary>
+  <br />
+  <pre>
+  Company:
+  ・Choushimaru Co.,Ltd.
+  ・Daiso Industries Co., Ltd.
+  ・Shinseidoyakkyoku Co., Ltd.
+  Domain: Retail store.
+  My Role: Frontend
+  Main accomplishments:
+  ・Improved UI/UX of each store's LINE App.
+  ・Reduced 23% of unnecessary API requests to alleviate the burden on the server and increase performance on the frontend.
+  ・Added E2E tests with Cypress for the LINE Apps.
+  </pre>
+</details>
+
+<details>
+  <summary><b>HOKEN Channel</b></summary>
+  <br />
+  <pre>
+  Company: Recruit Co., Ltd.
+  Domain: Insurance services aggregator.
+  My Role: Frontend
+  Main accomplishments:
+  ・Enhanced UI/UX design for improved user engagement and accessibility.
+  ・Renewed 10+ landing pages, boosting CTA click rate of the service from 19% to 23%.
+  ・Reduced unnecessary form fields and steps to increase CVR from 9% to 14%.
+  </pre>
+  🌐 <a href="https://hokench.com/">HOKEN Channel</a>
+  <br />
+</details>
+
+<details>
+  <summary><b>HOT PEPPER Beauty</b></summary>
+  <br />
+  <pre>
+  Company: Recruit Co., Ltd.
+  Domain: Beauty services aggregator.
+  My Role: Frontend.
+  Main accomplishments:
+  ・Improved web service UI/UX, increasing CVR from 6% to 11%.
+  ・Developed and implemented a feature to display the average score of reviews.
+  ・Developed a dynamic filter for shop listings on the mobile page, enhancing user navigation and experience.
+  ・Implemented over 10 landing pages, significantly enhancing online presence and user engagement.
+  </pre>
+  🌐 <a href="https://beauty.hotpepper.jp/">HOT PEPPER Beauty</a>
+  <br />
+  🌐 <a href="https://salonboard.com/">SALON BOARD</a>
+  <br />
+</details>
+
+<br />
 <br />
 
 <img width="100%" alt="Near Toyosu" src="https://pbs.twimg.com/profile_banners/2871969752/1693108598/1500x500" />
