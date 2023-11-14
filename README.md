@@ -109,7 +109,7 @@
 
 <br />
 
-### 📂 Work Experience
+### 📂 Work Experiences & Contributions
 
 <details>
   <summary><b>S.H (Current)</b></summary>
